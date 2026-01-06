@@ -128,9 +128,13 @@ Web-based image editing application with AI-powered features.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=techy-Nik&show_icons=true&count_private=true)
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=techy-Nik&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=techy-Nik&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=techy-Nik&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Profile Views](https://komarev.com/ghpvc/?username=techy-Nik&color=blueviolet&style=flat-square)
 
 </div>
 
