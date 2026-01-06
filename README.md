@@ -3,7 +3,7 @@
 **CS Graduate Student @ NJIT** | Full-Stack Developer | ML Research Engineer | IEEE Published Researcher
 
 🎓 Currently pursuing M.S. in Computer Science at New Jersey Institute of Technology (Expected 2027)  
-🔬 Research Member @ The Open AI Team (OAIT) - NJIT  
+🔬 Research Member @ [The Open AI Team (OAIT)](https://www.oaiteam.org) - NJIT  
 📚 Published 2 papers in IEEE conferences (ICESC 2024, ICCES 2024)  
 💼 Previously: ML Research Assistant @ CHARUSAT | Software Analyst @ APEXON
 
@@ -17,7 +17,7 @@
 - 🍎 Published fruit classification model achieving **98.90% accuracy** (EfficientNetV2B2)
 - 👨‍🏫 Teaching Assistant managing 100+ students at NJIT
 
-## 🔬 Current Research @ The Open AI Team (OAIT)
+## 🔬 Current Research @ [The Open AI Team (OAIT)](https://www.oaiteam.org)
 
 ### Medical AI Systems
 
@@ -94,7 +94,7 @@ Contributing to academic research in AI/ML with focus on practical applications 
 
 ## 🎯 Featured Projects
 
-### 🏥 Medical AI Research (OAIT @ NJIT)
+### 🏥 Medical AI Research ([OAIT @ NJIT](https://www.oaiteam.org))
 AI systems for healthcare applications including breast cancer detection, neurological disorder diagnosis (Parkinson's, Alzheimer's), and dermatology (Rosacea detection). Using deep learning with medical imaging data.  
 `Deep Learning` `Medical Imaging` `TensorFlow` `Clinical AI`
 
@@ -154,13 +154,13 @@ N. Kantaria, D. Khokhar, P. Goel
 ## 🏆 Certifications
 
 ### IBM Certifications
-- **IBM Cybersecurity Analyst Professional** 
+- **IBM Cybersecurity Analyst Professional**
 - **Cyber Threat Intelligence**
 - **Penetration Testing, Incident Response, and Forensics**
 - **Network Security and Database Vulnerabilities**
 
 ### Security
-- **Ethical Hacking Essentials (EHE)** & CEH Training 
+- **Ethical Hacking Essentials (EHE)** & CEH Training
 
 ## 💡 Current Focus
 
@@ -173,7 +173,7 @@ N. Kantaria, D. Khokhar, P. Goel
 
 ## 💼 Experience
 
-**Research Member @ The Open AI Team (OAIT)**  
+**Research Member @ [The Open AI Team (OAIT)](https://www.oaiteam.org)**  
 *New Jersey Institute of Technology | Sept 2025 - Present*
 - Developing AI systems for medical imaging analysis (breast cancer, neurological disorders)
 - Building computer vision solutions for infrastructure safety and public applications
