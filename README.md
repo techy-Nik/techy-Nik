@@ -1,4 +1,6 @@
-# Hi, I'm Nikunj Kantaria 👋
+<!-- Rahde Radhe -->
+
+# Hi, I'm Nikunj Kantaria 👋 
 
 **CS Graduate Student @ NJIT** | Full-Stack Developer | ML Research Engineer | IEEE Published Researcher
 
@@ -126,7 +128,7 @@ Gesture-based mouse control using **MediaPipe** and OpenCV - supports clicks, sc
 Web-based image editing application with AI-powered features.  
 `JavaScript` `Canvas API` `Image Processing`
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <div align="center">
 
@@ -136,7 +138,7 @@ Web-based image editing application with AI-powered features.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=techy-Nik&color=blueviolet&style=flat-square)
 
-</div>
+</div>-->
 
 ## 📄 Publications
 
