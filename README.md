@@ -128,9 +128,15 @@ Web-based image editing application with AI-powered features.
 
 ## 📊 GitHub Stats
 
-![Nikunj's GitHub stats](https://github-readme-stats.vercel.app/api?username=techy-Nik&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techy-Nik&layout=compact&theme=radical&hide_border=true)
+![Nikunj's GitHub stats](https://github-readme-stats.vercel.app/api?username=techy-Nik&show_icons=true&theme=radical&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techy-Nik&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=techy-Nik&theme=radical&hide_border=true)
+
+</div>
 
 ## 📄 Publications
 
