@@ -17,7 +17,7 @@
 - 📱 Developed mobile app with AI chatbot using Flan-T5 - **2,000+ downloads**
 - 🤖 Published RAG system research achieving **86.67% accuracy** (Llama3.1)
 - 🍎 Published fruit classification model achieving **98.90% accuracy** (EfficientNetV2B2)
-- 👨‍🏫 Teaching Assistant managing 100+ students at NJIT
+  
 
 ## 🔬 Current Research @ [The Open AI Team (OAIT)](https://www.oaiteam.org)
 
@@ -186,11 +186,6 @@ N. Kantaria, D. Khokhar, P. Goel
 - Developing AI systems for medical imaging analysis (breast cancer, neurological disorders)
 - Building computer vision solutions for infrastructure safety and public applications
 - Collaborating with Prof. Chengjun Liu on healthcare AI research
-
-**Graduate Teaching Assistant**  
-*New Jersey Institute of Technology | Sept 2025 - Present*
-- Managing 100+ students with demonstrated improvements in comprehension
-- Assisting with CS coursework and grading
 
 **Undergraduate ML Research Assistant**  
 *CHARUSAT | Dec 2023 - Dec 2024*
